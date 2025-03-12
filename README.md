@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam Amar! 
 
-<!--
-**admamr/admamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 **Frontend Developer | Web Designer | SEO Specialist**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building interactive and high-performance websites.  
+
+🌎 **Portfolio:** [admamr.github.io](https://admamr.github.io/portfolio/) 
+
+📫 **Email:** admamr.227@gmail.com  
+
+💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/adam-amar1/)
+
+## 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Tailwind, React.js
+- **Backend:** Node.js, MongoDB
+- **CMS:** WordPress, Wix
+- **Tools:** Git, VS Code, Figma,Canva & Postman
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=admamr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=admamr&layout=compact&theme=radical)
+
+---
+💡 *"Code, create, and innovate!"*  
+
