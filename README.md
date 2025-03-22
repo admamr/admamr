@@ -9,7 +9,7 @@
 
 📫 **Email:** admamr.227@gmail.com  
 
-💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/adam-amar1/)
+💼 **LinkedIn:** [Adams Profile](https://www.linkedin.com/in/adam-amar1/)
 
 ## 🚀 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Tailwind, React.js
