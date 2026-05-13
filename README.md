@@ -5,7 +5,7 @@ cat > README.md <<'EOF'
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=800&color=D84040&center=true&vCenter=true&width=850&lines=Websites+that+look+premium+and+convert;Landing+pages+built+with+CRO+logic;Frontend+systems+with+clean+execution;Digital+experiences+with+edge+and+clarity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=900&color=D84040&center=true&vCenter=true&width=900&lines=Websites+that+look+premium+and+convert;Landing+pages+built+with+CRO+logic;Frontend+systems+with+clean+execution;Digital+experiences+with+edge+and+clarity" alt="Typing SVG" />
 
 <br>
 <br>
@@ -34,14 +34,6 @@ cat > README.md <<'EOF'
 I design and build sharp websites, landing pages, and digital systems that combine visual direction, clean frontend execution, SEO structure, and conversion logic.
 
 **Flammin Studio** is my creative lab for building digital experiences that look premium, feel intentional, and move users toward action.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9c4-067811037afd.gif" width="900" />
 
 </div>
 
@@ -100,7 +92,12 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 
 ### Platforms
 
-<img src="https://skillicons.dev/icons?i=wordpress,webflow,shopify,figma" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br>
 <br>
@@ -112,15 +109,15 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 <br>
 <br>
 
-### Creative And Growth Stack
+### Growth Stack
 
-<img src="https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 <img src="https://img.shields.io/badge/GA4-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=111111" />
 <img src="https://img.shields.io/badge/GSC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" />
 <img src="https://img.shields.io/badge/CRO-D84040?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/SEO-1D1616?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+<img src="https://img.shields.io/badge/GEO-8E1616?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/AEO-D84040?style=for-the-badge&logo=semanticweb&logoColor=white" />
 
 </div>
 
@@ -133,40 +130,35 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/strategy-board.png" width="54" />
-<br>
+<h3>🧭</h3>
 <b>Strategy First</b>
 <br>
 <sub>Every design needs a business reason.</sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="54" />
-<br>
+<h3>💻</h3>
 <b>Clean Build</b>
 <br>
 <sub>Structure should stay readable and scalable.</sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/speed.png" width="54" />
-<br>
+<h3>⚡</h3>
 <b>Performance</b>
 <br>
 <sub>Fast pages beat overloaded decoration.</sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/conversion.png" width="54" />
-<br>
+<h3>🎯</h3>
 <b>Conversion</b>
 <br>
 <sub>Design should move users toward action.</sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/diamond.png" width="54" />
-<br>
+<h3>💎</h3>
 <b>Premium Feel</b>
 <br>
 <sub>No generic template energy.</sub>
@@ -192,6 +184,8 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 
 <br>
 
+## 📊 GitHub Activity
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=admamr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D84040&icon_color=D84040&text_color=EEEEEE" height="170" />
@@ -203,7 +197,7 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=admamr&bg_color=0D1117&color=EEEEEE&line=D84040&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=admamr&theme=dark&hide_border=true&background=0D1117&ring=D84040&fire=D84040&currStreakLabel=D84040" width="650" />
 
 </div>
 
@@ -216,8 +210,6 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 <td>
 
 Building **Flammin Studio** into a performance focused creative web studio for brands that need more than a decent looking website.
-
-The focus is simple:
 
 <br>
 
