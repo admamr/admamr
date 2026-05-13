@@ -1,26 +1,91 @@
-# 👋 Hi, I'm Adam Amar! 
+<div align="center">
 
+# Flammin Studio
 
-🚀 **Frontend Developer | Web Designer | SEO Specialist**  
+### Creative Web Developer, UI/UX Designer, and CRO focused digital builder
 
-💻 Passionate about building interactive and high-performance websites.  
+I design and build sharp websites, landing pages, and digital systems that combine visual direction, clean frontend execution, and conversion logic.
 
-🌎 **Portfolio:** [admamr.github.io](https://admamr.github.io/portfolio/) 
+Flammin Studio is my creative lab for building digital experiences that look premium, feel intentional, and move users toward action.
 
-📫 **Email:** admamr.227@gmail.com  
+</div>
 
-💼 **LinkedIn:** [Adams Profile](https://www.linkedin.com/in/adam-amar1/)
+<br>
 
-## 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Tailwind, React.js
-- **Backend:** Node.js, MongoDB
-- **CMS:** WordPress, Wix
-- **Tools:** Git, VS Code, Figma,Canva & Postman
+## What I Build
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=admamr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=admamr&layout=compact&theme=radical)
+```txt
+Websites that feel alive
+Landing pages built for conversion
+Frontend interfaces with clean structure
+Brand focused digital experiences
+SEO, GEO, and AEO ready page systems
+Client dashboards, portals, and internal tools
 
----
-💡 *"Code, create, and innovate!"*  
+<br>
+
+## Core Stack
+
+HTML
+CSS
+JavaScript
+React
+Tailwind CSS
+WordPress
+Elementor
+Framer
+Shopify
+Webflow
+Git
+GA4
+GSC
+GTM
+
+<br>
+
+## My Focus
+
+I care about the full experience, not only the screen.
+
+Strategy before visuals
+Structure before animation
+Performance before decoration
+Conversion before aesthetics
+Clarity before complexity
+
+<br>
+
+**Flammin Studio Direction**
+
+Creative websites
+High converting landing pages
+SEO structured builds
+AI enhanced workflows
+Digital systems for modern brands
+
+<br>
+
+**Current Mission**
+
+Building Flammin Studio into a high performance creative web studio focused on:
+Premium UI direction
+Conversion focused funnels
+Fast frontend builds
+Reusable digital systems
+Long term client growth
+
+<br>
+
+## Connect
+
+Website: flammin.studio
+LinkedIn: linkedin.com/in/adam-amar1
+Instagram: instagram.com/flammin.studio
+X: x.com/FlamminStudio
+
+<br>
+
+<div align="center">
+</div>
+```
 
