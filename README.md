@@ -186,7 +186,7 @@ Pages planned with semantic HTML, search intent, answer engine readiness, schema
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=admamr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D84040&icon_color=D84040&text_color=EEEEEE" height="170" />
+<img src="[https://github-readme-stats.vercel.app/api?username=admamr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D84040&icon_color=D84040&text_color=EEEEEE" height="170](https://i.pinimg.com/736x/76/f5/e0/76f5e09e24e8ef59ae8fa98091a63219.jpg)" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admamr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D84040&text_color=EEEEEE" height="170" />
 
 </div>
