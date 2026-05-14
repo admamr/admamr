@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D84040,100:1D1616&height=220&section=header&text=Flammin%20Studio&fontSize=54&fontColor=EEEEEE&animation=fadeIn&fontAlignY=38&desc=Creative%20Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CRO%20Focused%20Builder&descAlignY=58&descSize=16" width="100%" />
@@ -241,4 +241,4 @@ Building **Flammin Studio** into a performance focused creative web studio for b
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D1616,100:D84040&height=140&section=footer&text=Designed%20with%20intent.%20Built%20to%20perform.&fontSize=24&fontColor=EEEEEE&animation=fadeIn&fontAlignY=70" width="100%" />
 
 </div>
-EOF
+
